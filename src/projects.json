@@ -1,0 +1,54 @@
+[
+    {
+        "project":"Football Manager Simulator",
+        "desc":"A CLI game where you can generate your team, manage players, and sim games",
+        "language_tech": ["Python","JSON", "CLI"],
+        "img":"src/assets/football.png",
+        "github":"https://github.com/mousdieng10-maker/Football-Manager-Simulator"
+    },
+    {
+        "project":"BiblioRead",
+        "desc":"A UI web app that allows a user to create their own library from books fetched through an API or Calibre",
+        "language_tech":["Python","HTML","CSS","JS","Pywebview","JSON","API"],
+        "img":"src/assets/Screenshot_2026-07-24_05-24-49.png",
+        "github":""
+
+    },
+    {
+        "project":"GPA Calculator",
+        "desc":"A website that allows users to login and calculate school grades, and GPA to make predictions",
+        "language_tech":["HTML","CSS","JS"],
+        "img":"src/assets/gpaCalc.png",
+        "github":""
+
+    },
+
+    {
+        "project":"Playstyle",
+        "desc":"Make your life a football game with Playstyle, a fifa ultimate team like app where real life affects your card.",
+        "language_tech":["Python","HTML","CSS","JS","JSON", "Pywebview"],
+        "img":"src/assets/show.png",
+        "github":"https://github.com/mousdieng10-maker/Playstyle"
+    },
+    {
+        "project":"Whatsapp Bot",
+        "desc":"Football bot for whatsapp group with fixture notifications, and table rankings.",
+        "language_tech":["Python","GreenAPI","APIFootball","SQLite"],
+        "img":"src/assets/content.png",
+        "github":"https://github.com/mousdieng10-maker/Whatsapp-group-football-bot"
+    },
+    {
+        "project":"Website for School Alumni",
+        "desc":"Website made for school alumni that had an outdated website, features dark mode and a responsive ui.",
+        "language_tech":["HTML","CSS","JS"],
+        "img":"src/assets/dark.png",
+        "github":"https://github.com/mousdieng10-maker/Association-anciens-eleves"
+    },
+    {
+        "project":"JTREE",
+        "desc":"Visualize json files easily with this software", 
+        "language_tech":["HTML","CSS","JS","Python","Pywebview","JSON"],
+        "img":"",
+        "github":"https://github.com/mousdieng10-maker/JTREE-V-"
+    }
+]
